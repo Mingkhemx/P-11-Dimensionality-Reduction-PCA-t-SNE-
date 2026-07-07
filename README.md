@@ -54,7 +54,7 @@ Proyek ini adalah tugas praktik **Dimensionality Reduction** yang menganalisis d
 ### 🔷 PCA — Proyeksi 2 Komponen Utama
 
 <div align="center">
-<img src="assets/pca_scatter.png" alt="Hasil visualisasi PCA 2D segmentasi pelanggan" width="80%">
+<img src="pca_scatter.png" alt="Hasil visualisasi PCA 2D segmentasi pelanggan" width="80%">
 </div>
 
 Sumbu **PC1** dan **PC2** masing-masing merepresentasikan kombinasi linear dari 11 fitur asli yang menangkap arah variansi terbesar dalam data. Segmen *Premium Loyal* terlihat terpisah cukup jauh di sisi kanan grafik, sementara tiga segmen lainnya masih saling berdekatan dengan sedikit tumpang tindih di area perbatasan.
@@ -62,7 +62,7 @@ Sumbu **PC1** dan **PC2** masing-masing merepresentasikan kombinasi linear dari 
 ### 🔶 t-SNE — Proyeksi Non-Linear 2D
 
 <div align="center">
-<img src="assets/tsne_scatter.png" alt="Hasil visualisasi t-SNE 2D segmentasi pelanggan" width="80%">
+<img src="tsne_scatter.png" alt="Hasil visualisasi t-SNE 2D segmentasi pelanggan" width="80%">
 </div>
 
 Berbeda dengan PCA, t-SNE menampilkan keempat segmen sebagai kelompok-kelompok terpisah yang jauh lebih rapat dan terisolasi satu sama lain, karena algoritma ini secara khusus mengoptimalkan kedekatan antar tetangga lokal alih-alih variansi global.
@@ -204,8 +204,8 @@ jupyter notebook Dimensionality_Reduction_PCA_tSNE.ipynb
 
 | Nama | NIM | Peran |
 |:--|:--:|:--|
-| _(isi nama)_ | _(isi NIM)_ | _(isi peran)_ |
-| _(isi nama)_ | _(isi NIM)_ | _(isi peran)_ |
+| _Muhammad Rifki Apreliant_ | _24523097_ |
+| _orian Edsel Devanindra_ | _24523149_ |
 
 > 📝 *Tugas ini merupakan bagian dari mata kuliah proyek akhir — bukti kehadiran pertemuan ke-25.*
 
