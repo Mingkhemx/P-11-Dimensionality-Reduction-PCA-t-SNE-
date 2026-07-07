@@ -156,9 +156,8 @@ jupyter notebook Dimensionality_Reduction_PCA_tSNE.ipynb
 
 | Nama | NIM | Peran |
 |:--|:--:|:--|
-| _(isi nama)_ | _(isi NIM)_ | _(isi peran)_ |
-| _(isi nama)_ | _(isi NIM)_ | _(isi peran)_ |
-
+| _(Muhammad Rifki Apreliant)_ | _(24523097)_ |
+| _(Orian Edsel Devaninra)_ | _(24523149)_ |
 > 📝 *Tugas ini merupakan bagian dari mata kuliah proyek akhir — bukti kehadiran pertemuan ke-25.*
 
 ---
